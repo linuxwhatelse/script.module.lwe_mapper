@@ -2,7 +2,7 @@
 <addon id="script.module.lwe_mapper"
        name="mapper"
        provider-name="linuxwhatelse"
-       version="1.2.2">
+       version="1.2.5">
 
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
